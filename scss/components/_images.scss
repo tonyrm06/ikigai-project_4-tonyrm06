@@ -4,11 +4,11 @@
 
 
 .img--frame{
-    padding: 12.5px;
-    border: solid 0.5px black;
-  display:block;
-margin:auto;
-width: 100%;
+        padding: 12.5px;
+        border: solid 0.5px black;
+    display:block;
+    margin:auto;
+    width: 100%;
 
 }
 .img--avatar{
@@ -16,5 +16,16 @@ width: 100%;
     border:  0.5px  solid white;
     display:block;
     margin:auto;
-    
+    width: 40%;
+}
+
+@media (min-width: 1024px){
+.img--frame{
+width: auto;
+
+}
+.img--logo{
+    padding-bottom: 0;
+}
+
 }

@@ -1,18 +1,12 @@
 
 @import 
-"utilities/variables",
-"utilities/extends",
-"utilities/functions",
-"utilities/mixins";
+"utilities/index";
 
-@import "components/buttons",
-"components/forms",
-"components/grid",
-"components/images",
-"components/navigation",
-"components/typography";
+@import
+"components/index";
 
-@import "base/base";
+@import
+ "base/index";
 
 
 

@@ -1,0 +1,75 @@
+.grid__row{
+    width: 100%;
+    height: 10%;
+    clear: both;
+    margin-top: 8.5%;
+    margin-bottom: 2.5%
+}
+.grid__col--12{
+    width: 100%;
+}
+.grid__col--3.theme__colors{
+    width: 100%;
+}
+.grid__col--6{
+    width: 100%;
+   
+}
+.grid__col--4.theme__colors{
+    width: 100%;
+}
+.grid__col--8.theme__colors{
+    width: 100%
+}
+.grid__col--7.theme__colors{
+    width: 100%;
+}
+.grid__col--5.theme__colors{
+    width: 100%;
+}
+
+.grid__col--3,
+.grid__col--8.theme__colors,
+.grid__col--7,
+.grid__col--12.theme__colors,
+.grid__col--6.theme__colors,
+.grid__col--4.theme__colors,
+.grid__col--5{
+    text-align: center;
+    padding: 4.5% 0 0.5% 0;
+    border-radius: 4px;
+    margin: 9px 0px;
+}
+
+
+.grid__col--8{
+    width: 80%;
+}
+
+
+
+//color Grid System
+.grid__col--12.theme__colors{
+    background-color: $color-12
+    }
+.grid__col--6.theme__colors{
+    background-color: $color-6
+    }
+.grid__col--5.theme__colors{
+    background-color: $color-5
+    }
+.grid__col--3.theme__colors{
+    background-color: $color-3
+    }
+.grid__col--4.theme__colors{
+    background-color: $color-4
+    }
+.grid__col--8.theme__colors{
+    background-color: $color-8
+    }
+.grid__col--7.theme__colors{
+    background-color: $color-7;
+    }
+
+    
+

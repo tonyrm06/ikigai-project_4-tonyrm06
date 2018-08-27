@@ -1,0 +1,1 @@
+.nav__item{margin:5px;list-style:none;text-align:center;padding-inline-end:50%;opacity:2;transition-property:opacity, background, box-shadow;transition-duration:.5s;transition-delay:0.5s, .1s}.nav__item a:hover{color:aliceblue}.nav__item:hover{background-color:#00bcd4;box-shadow:0 0 0 3px #cfd8dc}

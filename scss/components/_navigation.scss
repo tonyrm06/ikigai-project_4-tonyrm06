@@ -1,0 +1,26 @@
+.nav__item{
+    margin: 5px;
+	list-style:none;
+	text-align: center;
+	padding-inline-end: 50%;
+	opacity: 2;
+	transition-property: opacity, background, box-shadow;
+	transition-duration: .5s;
+	transition-delay: 0.5s, .1s;
+	a:hover{
+	color: aliceblue;
+	}
+}
+// .nav {
+// 	opacity: 2;
+// 	transition-property: opacity, background, box-shadow;
+// 	transition-duration: .5s;
+// 	transition-delay: .2s, .3s;
+// }
+
+.nav__item:hover {
+	background-color: #00bcd4;
+	box-shadow: 0 0 0 3px #cfd8dc;
+}
+
+
